@@ -23,6 +23,20 @@ body {
     font-weight: bold;
 }
 
+.button_js{
+    text-align: center;
+}
+
+#myButton{
+    border: None;
+    border-radius: 15px;
+    width: 150;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+    font-weight: bold;
+}
+
 .container{
 
 }

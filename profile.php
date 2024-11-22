@@ -32,5 +32,14 @@
                     <div class="row"><p class="title_photo">Шальнев И.Д.</p></div>
                 </div>
             </div>
+            <div class="container">
+                <div clas="row">
+                    <div class="button_js col-12">
+                        <button id="myButton">Click me!</button>
+                        <p id="demo"></p>
+                    </div>
+                </div>
+            </div>
+            <script type="text/javascript" src="js/button.js"></script>
     </body>
 </html>
