@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(121, 71, 214);
+    background-color:black;
     font-family:'Courier New', Courier, monospace;
     color:aliceblue;
 }
@@ -20,6 +20,20 @@ body {
 
 .nav_bar{
     font-size: 30px;
+    font-weight: bold;
+}
+
+.button_js{
+    text-align: center;
+}
+
+#myButton{
+    border: None;
+    border-radius: 15px;
+    width: 150;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
     font-weight: bold;
 }
 
